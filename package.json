@@ -1,0 +1,26 @@
+{
+  "name": "bot name",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"yes\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "purge",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord-canvas": "^1.4.1",
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.1.10"
+  }
+}
